@@ -57,6 +57,6 @@ Relay can bring plenty of benefits to an application:
 ## GraphQL Go Server
 [neelance/graphql-go](https://github.com/neelance/graphql-go) appears to be the
 most complete implementation of the [GraphQL spec](https://facebook.github.io/relay/docs/graphql-relay-specification.html)
-in Go.
+in Go but does lack some features found in more mature reference implementations. [Thunder](https://github.com/samsarahq/thunder) also looks promising.
 
 <!-- TODO - add more notes here! -->
